@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @McGREENS
+- 👋 Hi, I’m @Green_Ghost
 - 👀 I’m interested in Codding and web front end design
 - 🌱 I’m currently learning IT 
 - 💞️ I’m looking to collaborate on ...
